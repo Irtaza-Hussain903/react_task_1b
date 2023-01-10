@@ -48,7 +48,7 @@ const AdminLoginPage = () => {
       }
     } 
     catch (error) {
-      console.log('Error', error);
+      console.log('Error Comes', error);
     }
   };
 
